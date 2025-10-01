@@ -1,4 +1,4 @@
-[# Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
+# Cloud-Storage-creation-S3-and-Launching-an-EC2-Instance-in-AWS
 ## Ex.2 Cloud storage creation (S3) and launching an (Ec2) instance in AWS
 
 ```
@@ -93,4 +93,3 @@ EC2 (Elastic Compute Cloud) – Instance
 ## Result:
 Thus, a Simple Storage Service (S3) and EC2 (Elastic Compute Cloud) - instance has been successfully created and launched in AWS
  
-](https://github.com/Aankarsh/AWS-Account-Creation/blob/main/README.md)https://github.com/Aankarsh/AWS-Account-Creation/blob/main/README.mdhttps://github.com/Aankarsh/AWS-Account-Creation/blob/main/README.md
